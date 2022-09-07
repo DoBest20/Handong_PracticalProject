@@ -46,7 +46,7 @@ public class WordManager {
             int menu = selectMenu();
             if(menu == 0) break;
             if(menu == 1){
-                //list
+                wordCRUD.listAll();
             }
             if(menu == 4){
                 wordCRUD.addWord();
