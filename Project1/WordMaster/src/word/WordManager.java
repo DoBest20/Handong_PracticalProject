@@ -48,10 +48,16 @@ public class WordManager {
             if(menu == 1){
                 wordCRUD.listAll();
             }
-            if(menu == 4){
+            else if(menu == 4){
                 wordCRUD.addWord();
             }
-
+            else if(menu == 5){
+                wordCRUD.updateItem();
+                //update
+            }
+            else if(menu == 6){
+                //delete
+            }
         }
     }
 }
