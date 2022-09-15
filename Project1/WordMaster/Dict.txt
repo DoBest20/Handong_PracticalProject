@@ -6,7 +6,6 @@
 1|across|~을 가로질러
 1|any|어떤
 2|vegetable|야채
-1|act|행동
 3|level|수준,정도
 1|apartment|아파트
 3|technology|과학기술
@@ -38,4 +37,3 @@
 2|village|마을
 3|involve|포함하다,관계하다
 2|trip|여행
-1| good|좋은

@@ -23,7 +23,6 @@ public class WordCRUD implements ICRUD{
         System.out.print("=>난이도(1,2,3) & 새 단어 입력 : ");
         int level = s.nextInt();
         String word = s.nextLine();
-
         System.out.print("뜻 입력 : ");
         String meaning = s.nextLine();
         return new Word(0, level, word, meaning);
@@ -151,7 +150,7 @@ public class WordCRUD implements ICRUD{
         try {
             PrintWriter pr = new PrintWriter(new FileWriter(fname));
             for(Word one : list){
-                pr.write(one.toFileString() + "\n");
+                pr.write(one.toFileString()+"\n");
             }
             pr.close();
             System.out.println("==> 데이터 저장 완료");
