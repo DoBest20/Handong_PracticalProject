@@ -38,3 +38,4 @@
 2|village|마을
 3|involve|포함하다,관계하다
 2|trip|여행
+1| good|좋은
