@@ -6,10 +6,45 @@
 </head>
 <body>
 <h1>Form</h1>
-<form action="form_ok.jsp" method="post">
-  Title : <input type="text" name="title"> <br>
-  Contents : <input type="text" name="contents"> <br>
-  <input type="submit">
-</form>
+    <form action="form_ok.jsp" method="post">
+
+        First Name : <input type="text" id="fname" name="fname"><br>
+        Second Name : <input type="text" id="lname" name="lname"><br><br>
+        Email : <input type="email" name="email"><br>
+        Password : <input type="password" name="password"><br><br>
+        <label for="birthday">Birthday:</label>
+        <input type="date" id="birthday" name="birthday"><br><br>
+
+        Choose your gender: <br>
+        <input type="radio" id="man" name="gender" value="man">
+        <label for="html">man</label><br>
+        <input type="radio" id="woman" name="gender" value="woman">
+        <label for="css">woman</label><br><br>
+
+        Choose your favorite Web language: <br>
+        <input type="radio" id="html" name="fav_language" value="HTML">
+        <label for="html">HTML</label><br>
+        <input type="radio" id="css" name="fav_language" value="CSS">
+        <label for="css">CSS</label><br>
+        <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+        <label for="javascript">JavaScript</label><br><br>
+
+
+        <label for="class">Choose a favorite class:</label>
+        <select id="class" name="class">
+            <option value="java">java</option>
+            <option value="C">C</option>
+            <option value="Computer Architecture">Computer Architecture</option>
+            <option value="Project">Project</option>
+        </select>
+
+        <br><br>
+
+        <textarea name="message" rows="10" cols="30">
+        want to say
+        </textarea><br><br>
+        check me out : <input type="checkbox" name="ischeck" value="1"><br>
+        <input type="submit" value="Submit">
+    </form>
 </body>
 </html>
