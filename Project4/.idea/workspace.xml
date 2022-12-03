@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff04c302-84b8-4cc2-885e-2e7f71045838" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Project1/WordMaster/Dict.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/WordMaster/Dict.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project1/WordMaster/target/classes/word/WordCRUD.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/WordMaster/target/classes/word/WordCRUD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/git.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project3/home/.idea/home.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project5/Spring/.idea/artifacts/Spring_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project5/Spring/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project5/Spring/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project5/Spring/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project5/Spring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project5/Spring/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project5/Spring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project5/Spring/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project5/Spring/Spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project5/Spring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project5/Spring/src/main/java/com/example/Homecontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project5/Spring/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project5/Spring/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project5/Spring/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/java/project/git/Project4/JSPCRUD"
+    "last_opened_file_path": "D:/java/project/git/Project4/BoardJSPProject"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -46,6 +60,7 @@
       <updated>1667266522800</updated>
       <workItem from="1667266524605" duration="899000" />
       <workItem from="1667718870202" duration="56000" />
+      <workItem from="1670046242580" duration="27000" />
     </task>
     <servers />
   </component>
