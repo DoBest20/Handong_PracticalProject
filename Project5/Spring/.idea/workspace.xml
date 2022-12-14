@@ -9,34 +9,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d63ada3-a20d-4a99-808b-4d1c4028585f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/git.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Project3/home/.idea/home.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Spring_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/BoardController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/BoardDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/BoardService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/BoardServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/BoardVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Homecontroller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/addpostform.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/editform.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project4/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9d63ada3-a20d-4a99-808b-4d1c4028585f" name="Changes" comment="spring">
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/mybatis_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/mybatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/870fa94e-b224-4107-8f1e-23b8733f8993.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/870fa94e-b224-4107-8f1e-23b8733f8993.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/BoardDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/BoardDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring/WEB-INF/classes/com/example/Homecontriller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring/WEB-INF/views/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,25 +63,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/java/project/git/Project5/Spring/src/main/webapp/WEB-INF/views",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "spring.configuration.checksum": "38008dd81c2f4d7985ecf6e0ce8af1d1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java/project/git/Project5/Spring&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;38008dd81c2f4d7985ecf6e0ce8af1d1&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql",
-      "mariadb"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;mariadb&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java\project\git\Project5\Spring\src\main\webapp\WEB-INF\views" />
@@ -202,8 +190,29 @@
       <updated>1669340620365</updated>
       <workItem from="1669340621903" duration="1293000" />
       <workItem from="1670044824218" duration="8867000" />
-      <workItem from="1670053727118" duration="12432000" />
+      <workItem from="1670053727118" duration="12997000" />
+      <workItem from="1670407908900" duration="1533000" />
+      <workItem from="1670409548754" duration="2286000" />
+      <workItem from="1670544314866" duration="3611000" />
+      <workItem from="1670548748789" duration="2607000" />
+      <workItem from="1670898698590" duration="168000" />
+      <workItem from="1670900706962" duration="2380000" />
     </task>
+    <task id="LOCAL-00001" summary="spring">
+      <created>1670084260211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670084260211</updated>
+    </task>
+    <task id="LOCAL-00002" summary="spring">
+      <created>1670084284907</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670084284907</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,5 +228,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spring" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring" />
   </component>
 </project>
